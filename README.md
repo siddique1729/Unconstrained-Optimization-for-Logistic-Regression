@@ -10,7 +10,7 @@ Fitting a logistic regression model by selecting between 4 – 6 inputs from the
 
 ## Part 3 - Data Cleaning
 
-<img src="images/imgone.PNG">
+<img src="images/imgone.png">
 
 ## Part 4 - Normalization and Feature Selection
 ## Part 5 - Writing the logistic function
