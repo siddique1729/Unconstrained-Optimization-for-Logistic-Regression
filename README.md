@@ -50,10 +50,16 @@ Fitting a logistic regression model by selecting between 4 – 6 inputs from the
 - Input Work
 <img src="images/img8.png">
 
+- Output
+<img src="images/Neldermead.png">
+
 ## Part 7 - Optimization using Newton's Method
 
 - Input Work
 <img src="images/img9.png">
+
+- Output
+<img src="images/newton.png">
 
 ## Part 8 - Checking optimality of the function
 
