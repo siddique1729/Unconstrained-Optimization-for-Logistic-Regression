@@ -80,4 +80,10 @@ The code is similar from Part 1 - 4
 
 ## Random Sampling with Repetition
 
+<img src="images/img21.png">
+<img src="images/img22.png">
+
 ## Computing 95% confidence interval for the coefficients for 5000 samples
+
+<img src="images/img23.png">
+<img src="images/img24.png">
