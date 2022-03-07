@@ -16,17 +16,29 @@ Fitting a logistic regression model by selecting between 4 – 6 inputs from the
 - Input Work
 <img src="images/img2.png">
 
+- Output
+<img src="images/out1.png">
+<img src="images/out2.png">
+
 ## Part 3 - Data Cleaning
 
 - Input Work
 <img src="images/img3.png">
 <img src="images/img4.png">
 
+- Output Work
+<img src="images/out3.png">
+<img src="images/out4.png">
+
 ## Part 4 - Normalization and Feature Selection
 
 - Input Work
 <img src="images/img5.png">
 <img src="images/img6.png">
+
+- Output
+<img src="images/out5.png">
+<img src="images/out6.png">
 
 ## Part 5 - Writing the logistic function
 
@@ -47,3 +59,8 @@ Fitting a logistic regression model by selecting between 4 – 6 inputs from the
 
 - Input Work
 <img src="images/img10.png">
+
+- Output
+
+The eigen values are: 3.22444850e+02, 4.45930376e+01, 1.58613226e+01, 7.67344450e+00, 2.06681472e+00, 2.36034727e-01, 8.55399546e-01
+It is a convex function with a global minima
