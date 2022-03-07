@@ -8,7 +8,7 @@ Fitting a logistic regression model by selecting between 4 – 6 inputs from the
 ## Part 1 - Importing Required Libraries
 ## Part 2 - Checking directory, reading and viewing the dataset 
 
-<img src="images/Capture.PNG">
+<img src="images/img2.PNG">
 
 ## Part 3 - Data Cleaning
 ## Part 4 - Normalization and Feature Selection
