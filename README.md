@@ -65,5 +65,5 @@ Fitting a logistic regression model by selecting between 4 – 6 inputs from the
 
 - Input Work
 <img src="images/img10.png">
-- The eigen values are: 3.22444850e+02, 4.45930376e+01, 1.58613226e+01, 7.67344450e+00, 2.06681472e+00, 2.36034727e_01, 8.55399546e_01
 - It is a convex function with a global minima
+- The eigen values are: 3.22444850e+02, 4.45930376e+01, 1.58613226e+01, 7.67344450e+00, 2.06681472e+00, 2.36034727e_01, 8.55399546e_01
