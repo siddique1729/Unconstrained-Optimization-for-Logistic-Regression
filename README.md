@@ -87,3 +87,6 @@ The code is similar from Part 1 - 4
 
 <img src="images/img23.png">
 <img src="images/img24.png">
+
+- Formula for calculating confidence interval
+<img src="images/conf.png">
