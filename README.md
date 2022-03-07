@@ -45,6 +45,9 @@ Fitting a logistic regression model by selecting between 4 – 6 inputs from the
 - Input Work
 <img src="images/img7.png">
 
+- Mathematical equation of written logistic function
+<img src="images/logreg.png">
+
 ## Part 6 - Optimization using Nelder-Mead
 
 - Input Work
