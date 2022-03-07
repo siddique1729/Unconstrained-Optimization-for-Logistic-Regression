@@ -90,3 +90,7 @@ The code is similar from Part 1 - 4
 
 - Formula for calculating confidence interval
 <img src="images/conf.png">
+
+- The end value for the confidence interval.
+
+<img src="images/confint.png">
